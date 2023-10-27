@@ -1,0 +1,63 @@
+1. che tipo di dati usi o comunichi? 
+2. a cosa ti servono o a cosa possono servire a chi li raccoglie? 
+3. sono dati sensibili?   
+4. puoi evitare di comunicarli?
+5. Hai fornito il consenso al trattamento dei dati?
+
+SOCIAL (IG, Facebook, ...)
+1. nome, data di nascita, email, immagine profilo, foto, commenti, like, persone che conosco, luoghi che frequento
+2. PER ME Passatempo, rimanere in contatto con i conoscenti
+   PER GLI ALTRI conoscere i miei gusti, i luoghi e le persone che frequento, i miei tempi
+3. Sicuramente si
+4. No, se voglio usarli
+5. Si, anche se non li ho mai letti
+
+HOME BANKING
+1. nome, data di nascita, luogo di nascita e residenza, codice fiscale, numero di conto, numero carta, 
+   operazioni bancarie, numero di telefono
+2. PER ME Velocizzare e fare in comodità operazioni
+   PER GLI ALTRI Sapere come e quanto spendo, quanto possiedo e quanto sono disposto a spendere
+3. Sicuramente si
+4. No, se voglio usarli
+5. Si, anche se non li ho mai letti
+
+
+ACQUISTI ONLINE
+1. nome, data di nascita, luogo di residenza, numero carta, email, numero di telefono, interessi
+2. PER ME comprare più comodamente
+   PER GLI ALTRI conoscere i miei gusti, i miei bisogni, i miei interessi
+3. Sicuramente si
+4. No, se voglio usarli
+5. Si, anche se non li ho mai letti
+
+   
+STREAMING
+1. nome, data di nascita, luogo di residenza, numero carta, email, numero di telefono, interessi, gusti personali,
+   conoscenti
+2. PER ME passatempo
+   PER GLI ALTRI sapere i miei gusti, quanto tempo passo davanti al pc, quando guardo cose in streaming
+3. Sicuramente si
+4. No, se voglio usarli
+5. Si, anche se non li ho mai letti
+
+
+MAPS
+1. nome, data di nascita, email, residenza, età, percorsi abituali, luoghi che frequento
+2. PER ME muovermi liberamente anche in luoghi che non conosco
+   PER GLI ALTRI conoscere i miei spostamenti (anche chi o cosa raggiungo), quanto mi muovo durante la giornata,
+   i luoghi che più frequento 
+3. Sicuramente si
+4. No, se voglio usarli
+5. Si, anche se non li ho mai letti
+
+
+RICERCHE INTERNET
+1. nome, email, residenza, interessi, necessità, offerte, scuola o università
+2. PER ME conoscere cose che non so
+   PER GLI ALTRI sapere cosa cerco, quando cerco e perchè, sapere i miei interessi
+3. Sicuramente si
+4. No, se voglio usarli
+5. Si, anche se non li ho mai letti
+
+
+
